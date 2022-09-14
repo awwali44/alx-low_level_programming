@@ -1,1 +1,1 @@
-a readme file is mandatory at the root of the folder for the project
+a readme file at the root of the folder of the project is mandatory
