@@ -3,4 +3,3 @@ File create_static_lib.sh is a script that creates a static library called libal
 File main.h is a header file containing all the prototypes of the functions stored in the libholberton.a library.
 
 Task still on progress...
-
